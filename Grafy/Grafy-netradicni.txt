@@ -1,0 +1,3 @@
+#Netradiční grafy
+
+* tachometr
