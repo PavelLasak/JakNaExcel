@@ -1,0 +1,13 @@
+Logické funkcce seznam
+
+A (AND)
+IFERROR (IFERROR) od ver. 2007, někdy CHYBHODN
+IFNA (IFNA) od verze 2013
+IFS (IFS) od verze 2016 z balíku (Office 365)
+KDYŽ (IF)
+NE (NOT)
+NEBO (OR)
+NEPRAVDA (FALSE)
+PRAVDA (TRUE)
+SWITCH (SWITCH) - od verze Excel 2016 (z balíku Office 365)
+XOR (XOR) - od verze Excel 2013
