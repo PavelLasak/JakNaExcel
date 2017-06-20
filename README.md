@@ -10,11 +10,11 @@ Můžete si stáhnout různé testovací materiály, podklady ať se vám s Exce
 *pro přehlednost v samstatných složkách*
 
 * Funkce
- * Textové
- * Databázové
- * Logické
- * Matematické
- * Statistické
+  * Textové
+  * Databázové
+  * Logické
+  * Matematické
+  * Statistické
 * Grafy
 * Kontingenční tabulky
 * Desisign (formáty)
