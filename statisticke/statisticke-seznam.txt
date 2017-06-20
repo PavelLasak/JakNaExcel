@@ -1,0 +1,91 @@
+Seznam statistických funkci
+
+AVERAGEA - (AVERAGEA) Vrátí průměr hodnot v seznamu argumentů.
+AVERAGEIF (AVERAGEIF) Vrátí průměrnou hodnotu buněk v oblasti dle podmínky
+AVERAGEIFS (AVERAGEIFS) Vrátí průměrnou hodnotu buněk v oblasti dle více podmínek
+BETADIST (BETADIST) Funkce hustoty rozdělení součtové pravděpodobnosti beta
+BETAINV (BETAINV) Inverzní hodnotu hustoty rozdělení součtové pravděpodobnosti beta
+BINOMDIST (BINOMDIST) Hodnota binomického rozdělení pravděpodobnosti
+CONFIDENCE (CONFIDENCE) Interval spolehlivosti pro střední hodnotu
+CORREL (CORREL) Korelační koeficient oblastí buněk
+COUNTBLANK (COUNTBLANK) Prázdné buňky v dané oblasti
+COUNTIF - (COUNTIF) počet buněk v oblasti odpovídající zadanému kritériu
+COUNTIFS - (COUNTIFS) počet buněk v oblastech odpovídající zadanémým kritériím
+COVAR (COVAR) Kovariance, průměr součinů odchylek pro dvojici datových bodů
+CRITBINOM (CRITBINOM) Nejmenší hodnota, pro součtové binomické rozdělení pro kriterium
+ČETNOSTI (FREQUENCY) - Počet výskytů hodnot v rámci oblasti
+DEVSQ (DEVSQ) Součet čtverců odchylek datových bodů od střední hodnoty výběru
+EXPONDIST (EXPONDIST) Hodnota exponenciálního rozdělení
+FDIST (FDIST) Hodnota rozdělení pravděpodobnosti F
+FINV (FINV) Hodnota inverzní funkce k distribuční funkci rozdělení F
+FISHER (FISHER) Hodnota Fisherovy transformace v hodnotě x
+FISHERINV (FISHERINV) Hodnotu inverzní funkce k Fisherově transformaci
+FORECAST (FORECAST) Vypočítá / odhadne budoucí hodnotu podle existujících hodnot
+FTEST (FTEST) Výsledek F-testu
+GAMMADIST
+GAMMAINV
+GAMMALN
+GEOMEAN (GEOMEAN) Vrátí geometrický průměr
+HARMEAN (HARMEAN) Vrátí harmonický průměr.
+HYPGEOMDIST (HYPGEOMDIST) Vrátí hodnotu hypergeometrického rozdělení.
+CHIDIST
+CHIINV
+CHITEST
+INTERCEPT (INTERCEPT) Vrátí úsek lineární regresní čáry
+KURT (KURT) Hodnota špičatosti množiny dat.
+LARGE (LARGE) Vrátí k-tou největší hodnotu v oblasti.
+LINREGRESE (LINEST) Přímku, která nejlépe odpovídá uvedeným datům
+LINTREND (TREND) množinu hodnot y, které na přímce odpovídají hodnotám nová_x
+LOGINV (LOGINV) Inverzní funkce k distribuční funkci logaritmicko-normálního rozdělení
+LOGLINREGRESE (LOGEST)
+LOGLINTREND (GROWTH)
+LOGNORMDIST (LOGNORMDIST)
+MAX (MAX) Maximální hodnota z množiny.
+MAXA (MAXA) Maximální hodnotu v seznamu argumentů
+MEDIAN (MEDIAN) Číslo které leží uprostřed uspořádané množiny
+MIN (MIN) Minimální hodnota z množiny.
+MINA (MINA) Minimální hodnotu v seznamu argumentů
+MODE (MODE) Modus - nejčastěji se vyskytující nebo opakující se hodnota
+NEGBINOMDIST
+NORM.DIST (NORMDIST) (NORM.DIST (NORMDIST)) - normálního rozložení a distribuční funkce
+NORMINV
+NORMSDIST
+NORMSINV
+PEARSON
+PERCENTIL
+PERCENTRANK
+PERMUTACE
+POČET (COUNT)
+POČET2 (COUNTA)
+POISSON
+PROB
+PRŮMĚR (AVERAGE)
+PRŮMODCHYLKA
+QUARTIL
+RANK (RANK) Pořadí argumentu v seznamu čísel (do Excel 2007).
+RANK.EQ (RANK.EQ) Pořadí argumentu v seznamu čísel (od Excel 2010).
+RANK.AVG (RANK.AVG) Pořadí argumentu v seznamu čísel (od Excel 2010).
+RKQ (RKQ) Druhou mocninu Pearsonova korelačního koeficientu pro lin. regresi
+SKEW (SKEW) - Šikmost rozdělení náhodné veličiny
+SLOPE
+SMALL (SMALL) Vrátí k-tou nejmenší hodnotu v oblasti.
+SMODCH.P (SMODCH.P) Směrodatná odchylka základního souboru z náhodného výběr (od Excel 2010)
+SMODCH.VÝBĚR.S (SMODCH.VÝBĚR.S) Odhad směrodatné odchylky základního souboru z náhodného výběru (od Excel 2010)
+SMODCH (STDEVP) Směrodatná odchylka základního souboru z náhodného výběru (zastaralá funkce)
+SMODCH.VÝBĚR (STDEV) Odhad směrodatné odchylky základního souboru z náhodného výběru (zastaralá funkce)
+STANDARDIZE
+STDEVA
+STDEVPA
+STEYX
+TDIST
+TINV
+TRIMMEAN
+TTEST
+VAR.P (VAR.P) Rozptyl základního souboru (od Excel 2010)
+VAR.S (VAR.S) Rozptyl výběru (od Excel 2010)
+VARA
+VARPA
+VAR (VARP) Rozptyl základního souboru (zastaralá funkce)
+VAR.VÝBĚR (VAR) - Rozptyl výběru (zastaralá funkce)
+WEIBULL
+ZTEST ()
