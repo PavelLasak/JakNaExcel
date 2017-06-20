@@ -6,3 +6,7 @@ Navazuje na web:
 
 Můžete si stáhnout různé testovací materiály, podklady ať se vám s Excelem pracuje lépe a jednodušeji.
 
+* Funkce
+- Textové
+* Grafy
+* Kontingenční tabulky
