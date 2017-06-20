@@ -1,1 +1,31 @@
 #Seznam textových funkcí
+
+BAHTTEXT (BAHTTEXT)
+CONCAT (CONCAT) - Sloučí několik textových řetězců do jednoho ze zadané oblasti - od Excel 2016
+CONCATENATE (CONCATENATE) - Sloučí několik textových řetězců do jednoho
+ČÁST (MID) - počet znaků z textového řetězce od zadané pozice
+DÉLKA (LEN) - počet znaků textového řetězce.
+DOSADIT (SUBSTITUTE) - nahradí v textu zadaný řetězec jiným.
+HLEDAT (SEARCH) - od kolikátého znaku v daném řetězci začíná první výskyt hledaného znaku
+HODNOTA (VALUE) - nalezne textovou hodnotu
+HODNOTA.NA.TEXT (TEXT) - zformátuje číslo a převede ho na text
+KČ (DOLLAR) - převede číslo na text ve formátu měny
+KÓD (CODE) - číselný kód prvního znaku textového řetězce
+MALÁ (LOWER) - převede text na malá písmena
+NAHRADIT (REPLACE) - nahradí znaky uvnitř textu
+NAJÍT (FIND) - nalezne textovou hodnotu uvnitř jiné
+NUMBERVALUE (NUMBERVALUE)
+OPAKOVAT (REPT) - zopakuje text
+PROČISTIT (TRIM) - odstraní z textu mezery
+STEJNÉ (EXACT) - zda jsou dvě textové hodnoty
+T (T) - převede argumenty na text
+TEXTJOIN (TEXTJOIN) - spojit texty, které budou navíc odděleny požadovaný oddělovačem
+UNICODE (UNICODE)
+UNICHAR (UNICHAR) - vrátí znak Unicode - od Excel 2013
+VELKÁ (UPPER) - převede text na velká písmena
+VELKÁ2 (PROPER) - převede první písmeno každého slova na velké
+VYČISTIT (CLEAN) - odebere z textu netisknutelné znaky
+ZAOKROUHLIT.NA.TEXT (FIXED) -zformátuje číslo jako text s pevným počtem desetinných míst
+ZLEVA / VLEVO (LEFT) - první znaky textu zleva
+ZNAK (CHAR) - vrátí znak určený číslem kódu
+ZPRAVA / VPRAVO (RIGHT) - vrátí znak určený číslem kódu zprava
